@@ -4,7 +4,7 @@ CAPS Phase 1: Begin the build of an application for a company called CAPS - The 
 
  #### GitHub repository: https://github.com/Sokiyna/CAPS
  #### PR link : https://github.com/Sokiyna/CAPS/pull/1
- #### GitHub actions: 
+ #### GitHub actions: https://github.com/Sokiyna/CAPS/actions
 
  ## UML
 
